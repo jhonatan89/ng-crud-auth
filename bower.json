@@ -1,5 +1,5 @@
 {
-  "name": "csw-ng-auth",
+  "name": "csw-ng-auth-academia",
   "description": "Authentication module for AngularJS",
   "main": "./dist/csw-ng-auth.js",
   "authors": [
@@ -12,7 +12,7 @@
     "uniandes",
     "auth"
   ],
-  "homepage": "https://github.com/recursosCSWuniandes/ng-crud-auth",
+  "homepage": "https://github.com/jhonatan89/ng-crud-auth",
   "moduleType": [],
   "ignore": [
     "**/.*",
