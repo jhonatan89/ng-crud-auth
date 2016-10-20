@@ -56,6 +56,7 @@
             this.register = function (newUser) {
                 var self = this;
                 $scope.loading = true;
+                delete newUser.confirmpassword;
                 authSvc.register(newUser).then(function (data) {
                     self.showSuccess("User registered successfully");
                 }, function (data) {
