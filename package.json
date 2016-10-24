@@ -1,6 +1,6 @@
 {
-  "name": "csw-ng-auth",
-  "version": "0.1.5",
+  "name": "csw-ng-auth-academia",
+  "version": "0.1.8",
   "description": "Authentication module for AngularJS",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/recursosCSWuniandes/ng-crud-auth.git"
+    "url": "git+https://github.com/jhonatan89/ng-crud-auth.git"
   },
   "keywords": [
     "angular",
@@ -18,9 +18,9 @@
   "author": "jj.alarcon10@uniandes.edu.co",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/recursosCSWuniandes/ng-crud-auth/issues"
+    "url": "https://github.com/jhonatan89/ng-crud-auth/issues"
   },
-  "homepage": "https://github.com/recursosCSWuniandes/ng-crud-auth#readme",
+  "homepage": "https://github.com/jhonatan89/ng-crud-auth#readme",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-angular-templates": "^0.5.7",
